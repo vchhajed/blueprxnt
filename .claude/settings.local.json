@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git pull:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git ls-remote:*)",
+      "Bash(git clone:*)",
+      "Bash(npm run dev:*)",
+      "Bash(start index.html)",
+      "Bash(start coaching.html)",
+      "Bash(start services.html)",
+      "Bash(start community.html)",
+      "Bash(start contact.html)",
+      "Bash(start c:UsershpBlueprxntshop.html)",
+      "Bash(start \"\" \"c:\\Users\\hp\\Blueprxnt\\shop.html\")",
+      "Bash(start \"\" \"c:\\Users\\hp\\Blueprxnt\\index.html\")",
+      "Bash(python -c:*)",
+      "Bash(pip install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
