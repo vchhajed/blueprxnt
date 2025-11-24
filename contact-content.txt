@@ -1,0 +1,132 @@
+Contact
+HERO SECTION
+Headline:
+Let’s Connect
+Subheadline:
+Whether you’re ready to transform your health, explore coaching options, or discuss a partnership—we’re here to help.
+Body Copy:
+Blueprxnt is more than a service—it’s a partnership. Reach out to start a conversation about your goals, challenges, and how we can work together.
+CONTACT OPTIONS
+Headline:
+How Can We Help?
+Subheadline:
+Choose the option that best fits your needs.
+OPTION 1: BOOK A DISCOVERY CALL
+Headline:
+Ready to Get Started?
+Body Copy:
+Book a complimentary 30-minute discovery call with Pratik to discuss your goals, explore coaching options, and determine if Blueprxnt is the right fit.
+Best for:
+Exploring Blueprxnt 1:1 coaching
+Learning about 12-week programs or session packs
+Discussing consulting or advising opportunities
+Asking questions about services and pricing
+CTA:
+Book a Discovery Call (Google Calendar link)
+OPTION 2: INQUIRE ABOUT SERVICES
+Headline:
+Have Questions About Our Services?
+Body Copy:
+Not sure which service is right for you? Fill out the form below and we’ll get back to you within 1-2 business days with personalized recommendations.
+Contact Form Fields:
+Name (required)
+Email (required)
+Phone (optional)
+I’m interested in: (dropdown menu)
+Blueprxnt 1:1 Coaching
+12-Week Programs
+Blueprxnt Collective (Group Coaching)
+Blueprxnt Diagnostic
+Session Packs
+Consulting & Advising
+Speaking Engagements
+Blueprxnt Circle (Community Membership)
+Other
+Tell us about your goals and challenges: (text area, optional)
+How did you hear about us? (dropdown menu, optional)
+Google Search
+Social Media (Instagram, LinkedIn, X)
+Podcast
+Referral
+Event/Conference
+Other
+CTA:
+Submit Inquiry
+OPTION 3: SPEAKING & MEDIA INQUIRIES
+Headline:
+Book Pratik to Speak or Appear
+Body Copy:
+Pratik is available for keynotes, workshops, panels, podcast appearances, and media interviews on topics including performance health, elite sports science, South Asian health, and longevity medicine.
+To inquire about speaking engagements or media appearances:
+Email: **speaking@blueprxnt.com**
+Or fill out the contact form above and select “Speaking Engagements”
+CTA:
+Email Speaking Inquiries
+OPTION 4: PARTNERSHIP & COLLABORATION INQUIRIES
+Headline:
+Interested in Partnering with Blueprxnt?
+Body Copy:
+Blueprxnt collaborates with health companies, supplement brands, sports teams, VCs, and organizations aligned with our mission of performance health and cultural intelligence.
+To discuss partnerships, consulting, or advisory opportunities:
+Email: **partnerships@blueprxnt.com**
+Or fill out the contact form above and select “Consulting & Advising”
+CTA:
+Email Partnership Inquiries
+OPTION 5: GENERAL INQUIRIES
+Headline:
+Have a General Question?
+Body Copy:
+For all other inquiries, including customer support, community questions, or general information:
+Email: **hello@blueprxnt.com**
+Or fill out the contact form above
+We typically respond within 1-2 business days.
+CTA:
+Email General Inquiries
+CONNECT WITH BLUEPRXNT
+Headline:
+Follow the Journey
+Subheadline:
+Stay connected with Blueprxnt on social media for daily insights, client transformations, and behind-the-scenes content.
+Social Media Links:
+Instagram: @blueprxntDaily performance tips, client stories, and cultural health insights
+LinkedIn: Pratik Patel, RD, CSCSProfessional insights, industry thought leadership, and career updates
+X (Twitter): @blueprxntReal-time health commentary, performance science, and community engagement
+YouTube: Blueprxnt PerformanceEducational videos, workshops, and podcast appearances
+Podcast: The Blueprxnt PodcastDeep dives into performance health, longevity, and cultural intelligence
+OFFICE & MAILING ADDRESS
+Headline:
+Where We’re Based
+Body Copy:
+Blueprxnt operates virtually, serving clients worldwide. For mailing inquiries:
+Blueprxnt[Mailing Address Line 1][City, State, ZIP][Country]
+Note: Blueprxnt is a virtual-first company. All coaching, consulting, and services are delivered remotely via video calls, apps, and digital platforms.
+FAQ SECTION
+Headline:
+Quick Answers to Common Questions
+Q: How quickly will I hear back after submitting the contact form?
+A: We respond to all inquiries within 1-2 business days (Monday-Friday). If you need a faster response, book a discovery call directly via our calendar link.
+Q: Can I book a discovery call if I’m not sure which service is right for me?
+A: Absolutely! Discovery calls are designed to help you explore options, ask questions, and determine the best fit for your goals and budget.
+Q: Do you work with clients outside the United States?
+A: Yes! Blueprxnt serves clients worldwide. All services are delivered virtually, and we work with international testing labs and partners to support global clients.
+Q: How do I know if Blueprxnt is the right fit for me?
+A: Book a discovery call or fill out the contact form with details about your goals and challenges. We’ll provide honest feedback on whether Blueprxnt is the right fit—and if not, we’ll point you in the right direction.
+Q: Can I schedule a call outside of business hours?
+A: Yes! Our calendar includes evening and weekend availability for international clients and busy professionals. If you don’t see a time that works, email us and we’ll find a solution.
+Q: Do you offer payment plans for coaching and services?
+A: Yes! Payment plans are available for Blueprxnt 1:1 coaching and select services. Discuss options during your discovery call or inquiry.
+Q: I’m a member of the media. How do I request an interview with Pratik?
+A: Email **speaking@blueprxnt.com** with details about your outlet, audience, and interview topic. We respond to media inquiries within 24-48 hours.
+FINAL CTA SECTION
+Headline:
+Ready to Take the Next Step?
+Body Copy:
+Whether you’re ready to book a call, submit an inquiry, or just want to connect—we’re here to support your journey.
+Your transformation starts with a conversation.
+CTA Buttons:
+Primary CTA: Book a Discovery Call
+Secondary CTA: Submit an Inquiry
+Tertiary CTA: Follow on Instagram
+Closing Line:
+We look forward to connecting with you.
+END OF CONTACT PAGE

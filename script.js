@@ -245,13 +245,16 @@ function updateActiveNavigation() {
 
 // Navbar Background on Scroll
 function initNavbarScroll() {
+    const header = document.querySelector('header');
     const navbar = document.querySelector('.navbar');
 
     window.addEventListener('scroll', function() {
         if (window.scrollY > 50) {
-            navbar.classList.add('scrolled');
+            header.classList.add('scrolled');
+            if (navbar) navbar.classList.add('scrolled');
         } else {
-            navbar.classList.remove('scrolled');
+            header.classList.remove('scrolled');
+            if (navbar) navbar.classList.remove('scrolled');
         }
     });
 }

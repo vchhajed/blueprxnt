@@ -1,0 +1,324 @@
+Services
+HERO SECTION
+Headline:
+Beyond Coaching: Strategic Services for Teams, Companies & High Performers
+Subheadline:
+From diagnostic assessments to executive consulting—Blueprxnt offers specialized services designed for organizations, practitioners, and individuals seeking targeted expertise.
+Body Copy:
+Whether you need a one-time performance diagnostic, expert consulting for your health company, or a keynote speaker for your next event—Blueprxnt delivers elite-level insights backed by NFL experience and performance science.
+CTA Buttons:
+Primary CTA: Book a Discovery Call
+Secondary CTA: Explore Services (anchor link to services below)
+SERVICES OVERVIEW
+Headline:
+Four Strategic Services
+Subheadline:
+Tailored solutions for diagnostics, session-based work, organizational consulting, and speaking engagements.
+SERVICE 1: BLUEPRXNT DIAGNOSTIC
+Headline:
+Blueprxnt Diagnostic: Know Where You Stand
+Subheadline:
+Comprehensive testing and analysis—no coaching required. Get the data, insights, and roadmap you need to optimize your health and performance.
+Body Copy:
+The Blueprxnt Diagnostic is a standalone service designed for high performers who want to understand their current state through comprehensive testing and expert analysis—without committing to long-term coaching.
+This is for you if:
+You want comprehensive testing and data-driven insights
+You’re considering Blueprxnt 1:1 coaching and want to start with a diagnostic
+You’re working with another coach but need advanced testing and analysis
+You want a clear roadmap based on your unique physiology and goals
+You value transparency and want to see what elite-level assessment looks like
+This is NOT for you if:
+You’re looking for ongoing coaching and support (choose Blueprxnt 1:1 instead)
+You want a quick fix or surface-level assessment
+You’re not ready to invest in comprehensive testing
+What’s Included:
+Comprehensive Testing Suite
+DEXA scan (body composition analysis)
+Bloodwork panels (via MitoHealth—comprehensive metabolic, hormonal, inflammatory markers)
+Genetic testing (3x4genetics or FitnessGenes—personalized insights)
+VO2max testing (submax test—cardiovascular fitness baseline)
+HRV/Sleep tracking device (Oura or Whoop—30-day baseline data collection)
+Movement screen (demotuapp—mobility and movement quality assessment)
+Advanced imaging (MRI, heart scan via Prenuvo/Ezra—optional add-on)
+GI map (gut health analysis—optional add-on)
+Total testing value: $5,000-$10,000+
+Expert Analysis & Reporting
+Comprehensive diagnostic report (20-30 pages) covering:
+Body composition analysis and trends
+Bloodwork interpretation with clinical context
+Genetic insights and actionable recommendations
+Cardiovascular fitness assessment
+Sleep and recovery analysis
+Movement quality and injury risk assessment
+Supplement recommendations based on bloodwork
+Training and nutrition recommendations
+Priority action items and next steps
+60-Minute Strategy Session
+Live video call with Pratik to review your diagnostic report
+Q&A on findings, recommendations, and implementation
+Personalized roadmap for next 3-6 months
+Option to transition to Blueprxnt 1:1 coaching (diagnostic cost credited toward coaching)
+Investment:
+Standard Diagnostic: $5,000(Includes: DEXA, bloodwork, genetics, VO2max, HRV device, movement screen, report, strategy session)
+Premium Diagnostic: $8,000(Includes: Everything in Standard + advanced imaging via Prenuvo/Ezra + GI map)
+Payment options: Stripe, Zelle, PayPal, Wire Transfer
+Timeline:
+4-6 weeks from payment to strategy session:
+Payment and intake form submission
+Testing coordination (2-3 weeks to complete all tests)
+Data collection and analysis (1-2 weeks)
+Diagnostic report delivery (via email)
+60-minute strategy session (scheduled within 1 week of report delivery)
+Transition to Coaching:
+If you decide to enroll in Blueprxnt 1:1 coaching within 90 days of your diagnostic, your diagnostic fee is fully credited toward your coaching investment.
+This makes the diagnostic a risk-free way to experience Blueprxnt’s approach before committing to long-term coaching.
+CTA:
+Book a Diagnostic (Google Calendar link)
+SERVICE 2: SESSION PACKS
+Headline:
+Session Packs: Targeted Support When You Need It
+Subheadline:
+One-time or multi-session packages for athletes, executives, and practitioners seeking expert guidance without ongoing coaching.
+Body Copy:
+Session Packs are designed for individuals who need targeted support on specific challenges—training program design, nutrition optimization, supplement protocols, or performance troubleshooting—without the commitment of long-term coaching.
+This is for you if:
+You’re already working with a coach but need expert input on a specific area
+You have a short-term goal or challenge that requires targeted support
+You want to learn Blueprxnt’s approach through focused sessions
+You prefer flexibility over long-term commitments
+This is NOT for you if:
+You need comprehensive testing and ongoing support (choose Blueprxnt 1:1 or 12-week programs instead)
+You’re looking for a quick fix without doing the work
+You want someone to hold your hand through every step (session packs are consultative, not coaching)
+Session Options:
+Single Session: $500
+What You Get:
+60-minute video call with Pratik
+Pre-session intake form to clarify goals and challenges
+Focused consultation on one specific area:
+Training program design or review
+Nutrition plan optimization
+Supplement protocol recommendations
+Performance troubleshooting (recovery, energy, sleep)
+Bloodwork interpretation and action plan
+Race/competition prep strategy
+Post-session summary with key takeaways and action items (via Loom video)
+Best For: One-off consultations, second opinions, or targeted problem-solving
+CTA:
+Book a Single Session
+3-Session Pack: $1,200 (save $300)
+What You Get:
+Three 60-minute video calls with Pratik (scheduled over 4-8 weeks)
+Pre-session intake form
+Focused work on 1-3 related areas (e.g., training + nutrition + supplements)
+Between-session support via email (limited to clarifying questions)
+Post-session summaries with key takeaways and action items (via Loom video)
+Final wrap-up session with integrated recommendations and next steps
+Best For: Short-term projects, competition prep, or focused transformation work
+CTA:
+Book a 3-Session Pack
+5-Session Pack: $1,800 (save $700)
+What You Get:
+Five 60-minute video calls with Pratik (scheduled over 8-12 weeks)
+Pre-session intake form
+Comprehensive work across multiple areas (training, nutrition, supplements, recovery, mindset)
+Between-session support via email (limited to clarifying questions)
+Post-session summaries with key takeaways and action items (via Loom video)
+Final wrap-up session with integrated recommendations and long-term roadmap
+Best For: Practitioners seeking mentorship, athletes preparing for a season, or executives optimizing multiple performance areas
+CTA:
+Book a 5-Session Pack
+Booking & Scheduling:
+Sessions are scheduled via Google Calendar after payment
+Sessions must be used within 6 months of purchase (no refunds, but transferable to another person)
+Rescheduling allowed with 48-hour notice; no-shows forfeit the session
+CTA:
+Book Your Session Pack
+SERVICE 3: CONSULTING & ADVISING
+Headline:
+Consulting & Advising: Strategic Partnerships for Organizations
+Subheadline:
+Expert guidance for health companies, supplement brands, sports teams, and VCs seeking credible, science-backed insights.
+Body Copy:
+Blueprxnt Consulting brings NFL-level performance science, clinical expertise, and cultural intelligence to organizations seeking to validate products, optimize athlete performance, or build credible health solutions.
+This is for you if:
+You’re a health/supplement company seeking expert product development or validation
+You’re a sports team or organization looking to optimize performance systems
+You’re a VC or startup needing credible health/performance expertise
+You want a strategic advisor with real-world experience in elite performance and clinical health
+This is NOT for you if:
+You’re looking for individual coaching (choose Blueprxnt 1:1 or session packs instead)
+You need quick, one-off advice (choose a single session instead)
+You’re not ready to invest in strategic, long-term partnerships
+Consulting Areas:
+Product Development & Validation
+Supplement formulation and ingredient selection
+Product testing and efficacy validation
+Clinical trial design and interpretation
+Marketing claims review and compliance
+Performance Systems Design
+Athlete performance program development
+Nutrition and recovery protocol design
+Testing and monitoring systems implementation
+Staff training and education
+Strategic Advisory
+Market positioning and competitive analysis
+Partnership and collaboration strategy
+Content and education development
+Brand credibility and authority building
+Cultural Intelligence Consulting
+South Asian health market insights
+Culturally adapted product and program design
+Community engagement and outreach strategy
+Engagement Models:
+Project-Based Consulting
+Investment: $5,000-$25,000 per project (depending on scope)
+What You Get:
+Defined scope of work with clear deliverables
+Timeline: 4-12 weeks (depending on project complexity)
+Direct access to Pratik via email and video calls
+Final report or deliverable (e.g., product recommendations, program design, strategic roadmap)
+Best For: One-time projects with clear objectives (e.g., supplement line development, performance program audit)
+CTA:
+Inquire About Project-Based Consulting
+Ongoing Advisory (Retainer)
+Investment: $3,000-$10,000 per month (depending on scope and time commitment)
+What You Get:
+Monthly retainer for ongoing strategic guidance
+2-4 video calls per month (depending on retainer level)
+Email/messaging access for questions and support
+Participation in key meetings, product launches, or events (as needed)
+Quarterly strategic reviews and recommendations
+Best For: Long-term partnerships with health companies, sports teams, or startups seeking continuous expert input
+CTA:
+Inquire About Ongoing Advisory
+Equity-Based Partnerships
+For select companies and startups, Blueprxnt is open to equity-based advisory relationships in lieu of cash compensation.
+Ideal for:
+Early-stage health/wellness startups seeking credible advisors
+Companies aligned with Blueprxnt’s mission (performance health, cultural intelligence, evidence-based innovation)
+Partnerships where Pratik’s expertise and network add significant strategic value
+CTA:
+Inquire About Equity Partnerships
+Past Consulting Clients & Partners:
+Supplement companies (formulation, product development, marketing)
+Sports teams and organizations (performance systems, nutrition protocols)
+Health tech startups (product validation, clinical advisory)
+VCs and investors (due diligence, market insights)
+CTA:
+Book a Consulting Discovery Call
+SERVICE 4: SPEAKING ENGAGEMENTS
+Headline:
+Speaking Engagements: Inspire, Educate, Transform
+Subheadline:
+Keynotes, workshops, and panels on performance health, elite sports science, South Asian health, and the future of longevity medicine.
+Body Copy:
+Pratik Patel brings a unique perspective to the stage: NFL performance experience, clinical expertise, cultural intelligence, and a personal transformation story that resonates with diverse audiences.
+Book Pratik for:
+Corporate wellness events and leadership summits
+Health and fitness conferences
+Sports science and performance symposiums
+South Asian cultural and professional events
+Academic lectures and university programs
+Podcast and media appearances
+Speaking Topics:
+Topic 1: The Future of Health—From Longevity to Performance
+Audience: Health professionals, executives, wellness enthusiasts
+Key Themes:
+Why longevity medicine is incomplete without performance
+The integration of Medicine 3.0, elite sports science, and behavioral psychology
+How to build sustainable health systems (not 30-day challenges)
+The role of testing, data, and cultural intelligence in personalized health
+Format: 30-60 minute keynote or 90-minute workshop
+Topic 2: The Elite Performance Blueprint
+Audience: Athletes, coaches, sports professionals
+Key Themes:
+What NFL athletes do differently (training, nutrition, recovery, mindset)
+How to adapt elite systems for non-elite athletes
+The science of performance optimization (capacity vs. fatigue)
+Common mistakes athletes and coaches make (and how to fix them)
+Format: 30-60 minute keynote or 2-3 hour workshop
+Topic 3: Precision Health for Leaders
+Audience: Executives, entrepreneurs, high performers
+Key Themes:
+Why generic health advice fails high performers
+The role of testing and data in optimizing energy, focus, and longevity
+Time-efficient strategies for busy professionals
+How to build sustainable health habits under high-pressure schedules
+Format: 30-60 minute keynote or half-day workshop
+Topic 4: The South Asian Health Paradox
+Audience: South Asian professionals, cultural organizations, health advocates
+Key Themes:
+Why South Asians are at the highest risk for diabetes and cardiovascular disease
+The genetic, cultural, and behavioral factors driving poor health outcomes
+How to address the “skinny-fat” phenotype and metabolic dysfunction
+Culturally intelligent strategies for sustainable health transformation
+Format: 30-60 minute keynote, panel discussion, or 2-3 hour workshop
+Topic 5: Recovery Science—The Missing Link
+Audience: Athletes, coaches, health professionals
+Key Themes:
+Why recovery is more important than training
+The science of sleep, HRV, and nervous system regulation
+Practical recovery protocols (breathwork, cold/heat, nutrition, supplements)
+How to monitor and optimize recovery in real-world settings
+Format: 30-60 minute keynote or 90-minute workshop
+Topic 6: From Burnout to Breakthrough—My Transformation Story
+Audience: General audiences, wellness events, cultural groups
+Key Themes:
+The out-of-shape NFL coach who transformed his health at 40
+Lessons learned from losing 50 lbs and building sustainable systems
+The importance of walking the walk (authenticity in health and performance)
+How to apply elite athlete systems to everyday life
+Format: 30-60 minute keynote or fireside chat
+Speaking Formats:
+Keynote: 30-60 minutes (ideal for conferences, summits, events)
+Workshop: 90 minutes to half-day (interactive, hands-on learning)
+Panel Discussion: 45-60 minutes (moderated or participant)
+Fireside Chat: 30-45 minutes (conversational, Q&A-driven)
+Academic Lecture: 60-90 minutes (university settings, research-focused)
+Podcast/Media Appearance: 60-90 minutes (interview format)
+Past Speaking Engagements:
+Peptide Congresses (performance and recovery science)
+SportsRx Summits (sports nutrition and performance)
+YPO Events (executive health and leadership)
+JiVA Symposium (South Asian health and cultural intelligence)
+University Sport Science Lectures (Kansas State, Michigan State, Oregon)
+Corporate Wellness Events (Fortune 500 companies)
+Podcast Appearances (75+ episodes on health, performance, and nutrition)
+Investment:
+Keynote (30-60 min): Starting at $5,000Workshop (90 min - half day): Starting at $7,500Full-Day Workshop: Starting at $15,000Panel/Fireside Chat: Starting at $3,000Podcast/Media Appearance: Negotiable (often complimentary for aligned audiences)
+Travel & Expenses: Covered by client (flights, accommodation, ground transportation)
+Custom Packages Available: Multi-event discounts, ongoing partnerships, and equity-based arrangements for aligned organizations
+Booking Process:
+Submit speaking inquiry via discovery call or email
+Discuss event details, audience, and objectives
+Receive proposal with topic options, format, and investment
+Sign agreement and coordinate logistics
+Pre-event prep (audience insights, AV requirements, promotional materials)
+Deliver keynote/workshop/panel
+Post-event follow-up (recordings, slides, additional resources)
+CTA:
+Book Pratik to Speak
+TESTIMONIALS SECTION
+Headline:
+Trusted by Organizations, Teams & Leaders Worldwide
+Subheadline:
+From NFL locker rooms to corporate boardrooms—Blueprxnt delivers results.
+Consulting & Advisory Testimonials:
+Erik Korem, Founder of AIM7, Former NFL Performance Director: “Pratik’s attention to detail and professionalism are second to none. His expertise in performance nutrition and sports science is world-class. If you’re looking for a strategic advisor who understands elite performance, Pratik is your guy.”
+Anonymous Health Tech Startup Founder: “Pratik helped us validate our product claims and design clinical trials. His credibility and expertise gave our investors confidence and our customers trust.”
+Speaking Testimonials:
+Event Organizer, Peptide Congress: “Pratik’s keynote on recovery science was one of the highest-rated sessions at our conference. His ability to blend NFL experience with clinical insights resonated with our audience of practitioners and researchers.”
+YPO Chapter President: “Pratik’s workshop on precision health for executives was a game-changer for our members. Practical, actionable, and backed by real-world experience. We’ve already booked him for next year.”
+FINAL CTA SECTION
+Headline:
+Ready to Work Together?
+Body Copy:
+Whether you need a comprehensive diagnostic, targeted session support, strategic consulting, or a keynote speaker—Blueprxnt delivers elite-level expertise tailored to your needs.
+CTA Buttons:
+Primary CTA: Book a Discovery Call
+Secondary CTA: Inquire About Consulting
+Tertiary CTA: Book Pratik to Speak
+Closing Line:
+Let’s build something exceptional—together.
+END OF SERVICES PAGE
